@@ -26,9 +26,9 @@ BioMetricAuthenticator.shared.allowableReuseDuration = 60   //(iOS 9.0 or later)
 - Check if **TouchID**  or **FaceID** authentication is available for iOS device.
 
 
-![Alt text](https://raw.githubusercontent.com/rushisangani/BiometricAuthentication/master/Images/image1.png "Authenticate")
-![Alt text](https://raw.githubusercontent.com/rushisangani/BiometricAuthentication/master/Images/image2.png "Fallback title")
-![Alt text](https://raw.githubusercontent.com/rushisangani/BiometricAuthentication/master/Images/image3.png "Locked out")
+![Alt text](https://github.com/Computervision0907/BiometricAuthentication/tree/master/Images/image1.png "Authenticate")
+![Alt text](https://github.com/Computervision0907/BiometricAuthentication/tree/master/Images/image2.png "Fallback title")
+![Alt text](https://github.com/Computervision0907/BiometricAuthentication/tree/master/Images/image3.png "Locked out")
 
 ## Features
 
@@ -53,7 +53,7 @@ pod 'BiometricAuthentication'
 ### Carthage
 
 ```ruby
-github "rushisangani/BiometricAuthentication"
+github "Computervision0907/BiometricAuthentication"
 ```
 
 ## Usage
@@ -214,9 +214,9 @@ BioMetricAuthenticator.authenticateWithBioMetrics(reason: "") { [weak self] (res
     }
 }
 ```
-See [Example](https://github.com/rushisangani/BiometricAuthentication/tree/master/BiometricAuthenticationExample) for more details.
+See [Example](https://github.com/Computervision0907/BiometricAuthentication/tree/master/BiometricAuthenticationExample) for more details.
 
 ## License
 
-BiometricAuthentication is released under the MIT license. [See LICENSE](https://github.com/rushisangani/BiometricAuthentication/blob/master/LICENSE) for details.
+BiometricAuthentication is released under the MIT license. [See LICENSE](https://github.com/Computervision0907/BiometricAuthentication/blob/master/LICENSE) for details.
 
